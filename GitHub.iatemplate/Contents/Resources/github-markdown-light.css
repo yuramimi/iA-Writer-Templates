@@ -6,7 +6,7 @@ html:not(.night-mode) {
 html:not(.night-mode) .markdown-body {
   -ms-text-size-adjust: 100%;
   -webkit-text-size-adjust: 100%;
-  font-family: -apple-system,BlinkMacSystemFont,"Segoe UI",Helvetica,Arial,sans-serif,"Apple Color Emoji","Segoe UI Emoji";
+  font-family: Garamond;
   font-size: 16px;
   line-height: 1.5;
   word-wrap: break-word;
